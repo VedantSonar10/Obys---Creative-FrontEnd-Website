@@ -12,7 +12,7 @@
 </ul>
 <h2 id="overview">Overview</h2>
 <p>Describe briefly what the project is about and its purpose. Include any relevant information about the technologies used and the goals of the clone.
-<img src="obys.png" alt="Obys Agency Website Clone Preview"></p>
+<img src="Obys.png" alt="Obys Agency Website Clone Preview"></p>
 <h2 id="demo">Demo</h2>
 <p>Explore the live demo of the Obys Agency Clone Website: <a href="https://antra77.github.io/Obys-Agency-Clone/">Live Demo</a></p>
 <h2 id="features">Features</h2>
