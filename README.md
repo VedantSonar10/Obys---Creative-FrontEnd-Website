@@ -26,7 +26,7 @@
 <h2 id="installation">Installation</h2>
 <ol>
 <li>Clone the repository:
-git clone <a href="https://github.com/your-username/obys-agency-clone.git">https://github.com/your-username/obys-agency-clone.git</a>	</li>
+git clone <a href="[https://github.com/your-username/obys-agency-clone.git](https://github.com/VedantSonar10/Obys---Creative-FrontEnd-Website.git)">https://github.com/your-username/obys-agency-clone.git</a>	</li>
 <li>Change into the project directory:
 cd obys-agency-clone
 3.Install dependencies:
