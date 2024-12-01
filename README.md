@@ -14,7 +14,7 @@
 <p>Describe briefly what the project is about and its purpose. Include any relevant information about the technologies used and the goals of the clone.
 <img src="Obys.png" alt="Obys Agency Website Clone Preview"></p>
 <h2 id="demo">Demo</h2>
-<p>Explore the live demo of the Obys Agency Clone Website: <a href="https://antra77.github.io/Obys-Agency-Clone/">Live Demo</a></p>
+<p>Explore the live demo of the Obys Agency Clone Website: <a href="[https://antra77.github.io/Obys-Agency-Clone/](https://vedantsonar10.github.io/Obys---Creative-FrontEnd-Website/)">Live Demo</a></p>
 <h2 id="features">Features</h2>
 <p>List the key features of the website clone. This could include interactive animations, responsive design, smooth scrolling, etc.</p>
 <h2 id="prerequisites">Prerequisites</h2>
@@ -26,7 +26,7 @@
 <h2 id="installation">Installation</h2>
 <ol>
 <li>Clone the repository:
-git clone <a href="[https://github.com/your-username/obys-agency-clone.git](https://github.com/VedantSonar10/Obys---Creative-FrontEnd-Website.git)">https://github.com/your-username/obys-agency-clone.git</a>	</li>
+git clone <a href="https://github.com/your-username/obys-agency-clone.git](https://github.com/VedantSonar10/Obys---Creative-FrontEnd-Website.git">https://github.com/your-username/obys-agency-clone.git</a>	</li>
 <li>Change into the project directory:
 cd obys-agency-clone
 3.Install dependencies:
